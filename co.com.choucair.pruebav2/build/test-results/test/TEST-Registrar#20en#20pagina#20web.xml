@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registrar en pagina web" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-03-25T04:47:36" hostname="DESKTOP-I8QICA2" time="0.068">
+  <properties/>
+  <testcase name="registrar en la pagina web" classname="Registrar en pagina web" time="0.068">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@470a696f
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@59d2103b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@f74e835
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: registrar en la pagina web:Given la pagina cargue, When el usuario inicia el registro
+| sNombres | sApellidos | sEmail | sMes | sDia | sAnno | sCiudad | sPosta | sPais | sSO | SVersion | sIdioma | sCelular | sModeloCel | sSOCelular |
+| Jhon Alexander | Martinez Becerra | jhonpo1593@gmail.com | Septiembre | 10 | 1993 | Ibagué | 730003 | Colombia | Windows | Windows 10 | Spanish | LG | X3 | Android |, Then se completa con exito
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [registrar en la pagina web:Given la pagina cargue, When el usuario inicia el registro
+| sNombres | sApellidos | sEmail | sMes | sDia | sAnno | sCiudad | sPosta | sPais | sSO | SVersion | sIdioma | sCelular | sModeloCel | sSOCelular |
+| Jhon Alexander | Martinez Becerra | jhonpo1593@gmail.com | Septiembre | 10 | 1993 | Ibagué | 730003 | Colombia | Windows | Windows 10 | Spanish | LG | X3 | Android |, Then se completa con exito]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [registrar en la pagina web:Given la pagina cargue, When el usuario inicia el registro
+| sNombres | sApellidos | sEmail | sMes | sDia | sAnno | sCiudad | sPosta | sPais | sSO | SVersion | sIdioma | sCelular | sModeloCel | sSOCelular |
+| Jhon Alexander | Martinez Becerra | jhonpo1593@gmail.com | Septiembre | 10 | 1993 | Ibagué | 730003 | Colombia | Windows | Windows 10 | Spanish | LG | X3 | Android |, Then se completa con exito]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: registrar en la pagina web
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
